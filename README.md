@@ -59,4 +59,7 @@ snake-java/
 │       └── enemy.png
 │── README.md
 ```
+# Foto: 
+
+<img width="877" height="663" alt="image" src="https://github.com/user-attachments/assets/54b72d48-4c32-43f3-9728-aa62ac00c70d" />
 
