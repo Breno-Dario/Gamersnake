@@ -5,27 +5,27 @@ Feito para praticar conceitos de orientação a objetos, eventos de teclado e in
 
 # 🎮 Funcionalidades
 
-Controle da cobra com as setas do teclado ⬅️⬆️➡️⬇️
+- Controle da cobra com as setas do teclado ⬅️⬆️➡️⬇️
 
-Sistema de pontuação e crescimento da cobra ao comer a comida
+- Sistema de pontuação e crescimento da cobra ao comer a comida
 
-Detecção de colisão com o próprio corpo → Game Over
+- Detecção de colisão com o próprio corpo → Game Over
 
-Reinício do jogo com a tecla Espaço
+- Reinício do jogo com a tecla Espaço
 
-Movimento contínuo e velocidade ajustável
+- Movimento contínuo e velocidade ajustável
 
 # 🕹️ Controles
 
-Seta para cima (↑) → Mover para cima
+- Seta para cima (↑) → Mover para cima
 
-Seta para baixo (↓) → Mover para baixo
+- Seta para baixo (↓) → Mover para baixo
 
-Seta para direita (→) → Mover para direita
+- Seta para direita (→) → Mover para direita
 
-Seta para esquerda (←) → Mover para esquerda
+- Seta para esquerda (←) → Mover para esquerda
 
-Espaço → Reiniciar após Game Over
+- Espaço → Reiniciar após Game Over
 
 # 🚀 Como rodar
 
